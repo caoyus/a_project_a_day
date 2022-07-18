@@ -5,4 +5,4 @@
 <img src="./src/source/images/aniplex.png" align=center/>
 <a href="https://github.com/caoyus/a_project_a_day/tree/main/src/projects/P02-%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8D%A1%E7%89%87%E6%82%AC%E5%81%9C%E6%95%88%E6%9E%9C" style="color:#130f40;text-decoration:blink;">P02:响应式卡片悬停效果</a>
 
-<img src="./src/source/images/01.png" align=center/>
+<img src="./src/source/images/01.png" style="width:100%"/>
